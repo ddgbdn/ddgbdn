@@ -19,7 +19,6 @@ Links:
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
         alt="LinkedIn Badge"/>  
     </a>
-    </br>
     <a href="https://www.codewars.com/users/ddgbdn">
         <img src="https://www.codewars.com/users/ddgbdn/badges/small">
     </a>
